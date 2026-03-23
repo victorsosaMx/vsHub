@@ -1,0 +1,46 @@
+  GNU nano 8.7.1     /home/vhs/Code/vsHub/tools.json                  
+[
+  {
+    "name": "vsHyprland-Manager",
+    "desc": "Graphical config editor for Hyprland",
+    "icon": "󱙌",
+    "exe": "vshyprland",
+    "aur": "vshyprland-manager",
+    "github": "https://github.com/victorsosaMx/vsHyprland-Manager",
+    "self": true
+  },
+  { 
+    "name": "vsWaybar Studio",
+    "desc": "Graphical config editor for Waybar",
+    "icon": "󰣇",
+    "exe": "vswaybar-studio",
+    "aur": "vswaybar-studio",
+    "github": "https://github.com/victorsosaMx/vsWaybar-Studio"
+  },
+  { 
+    "name": "vsFetch",
+    "desc": "Graphical system info viewer — like \"About This Compute>
+    "icon": "",
+    "exe": "vsfetch",
+    "aur": "vsfetch",
+    "github": "https://github.com/victorsosaMx/vsFetch"
+  },
+  { 
+    "name": "vsFetch Settings",
+    "desc": "Visual config editor for vsFetch — live preview, themes,>
+    "icon": "󰒓",
+    "exe": "vsfetch-settings",
+    "aur": "vsfetch-settings",
+    "github": "https://github.com/victorsosaMx/vsFetch-Settings"
+  }
+]
+
+
+
+
+
+
+
+
+
+
