@@ -1,38 +1,43 @@
-[
-  {
-    "name": "vsHyprland-Manager",
-    "desc": "Graphical config editor for Hyprland",
-    "icon": "󱙌",
-    "exe": "vshyprland",
-    "aur": "vshyprland-manager",
-    "github": "https://github.com/victorsosaMx/vsHyprland-Manager",
-    "self": true
-  },
-  { 
-    "name": "vsWaybar Studio",
-    "desc": "Graphical config editor for Waybar",
-    "icon": "󰣇",
-    "exe": "vswaybar-studio",
-    "aur": "vswaybar-studio",
-    "github": "https://github.com/victorsosaMx/vsWaybar-Studio"
-  },
-  { 
+  [
+    {
+      "name": "vsHyprland-Manager",
+      "desc": "Graphical config editor for Hyprland",
+      "icon": "󱙌",
+      "exe": "vshyprland",
+      "aur": "vshyprland-manager",
+      "github": "https://github.com/victorsosaMx/vsHyprland-Manager",
+      "self": true
+    },
+    {
+      "name": "vsWaybar Studio",
+      "desc": "Graphical config editor for Waybar",
+      "icon": "󰣇",
+      "exe": "vswaybar-studio",
+      "aur": "vswaybar-studio",
+      "github": "https://github.com/victorsosaMx/vsWaybar-Studio"
+    },
+    {
     "name": "vsFetch",
     "desc": "Graphical system info viewer — like \"About This Computer\" for your Linux desktop",
-    "icon": "",
+    "icon": "󰟀",
     "exe": "vsfetch",
     "aur": "vsfetch",
     "github": "https://github.com/victorsosaMx/vsFetch"
-  },
-  { 
-    "name": "vsFetch Settings",
-    "desc": "Visual config editor for vsFetch — live preview, themes, no JSON editing",
-    "icon": "󰒓",
-    "exe": "vsfetch-settings",
-    "aur": "vsfetch-settings",
-    "github": "https://github.com/victorsosaMx/vsFetch-Settings"
-  }
-]
-
-
-
+    },
+    {
+      "name": "vsFetch Settings",
+      "desc": "Visual config editor for vsFetch — live preview, themes, no JSON editing",
+      "icon": "󰒓",
+      "exe": "vsfetch-settings",
+      "aur": "vsfetch-settings",
+      "github": "https://github.com/victorsosaMx/vsFetch-Settings"
+    },
+    {
+      "name": "vsHypr Theme Manager",
+      "desc": "Sistema de theming para Arch Linux + Hyprland",
+      "icon": "󰔯",
+      "exe": "vshypr-theme-manager",
+      "aur": "vshypr-theme-manager",
+      "github": "https://github.com/victorsosaMx/vsHypr-Theme-Manager"
+    }
+  ]
