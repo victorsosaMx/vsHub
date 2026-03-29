@@ -3,7 +3,7 @@
       "name": "vsHyprland-Manager",
       "desc": "Graphical config editor for Hyprland",
       "icon": "󱙌",
-      "exe": "vshyprland",
+      "exe": "vshyprland-manager",
       "aur": "vshyprland-manager",
       "github": "https://github.com/victorsosaMx/vsHyprland-Manager",
       "self": true
