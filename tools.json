@@ -17,6 +17,14 @@
       "github": "https://github.com/victorsosaMx/vsWaybar-Studio"
     },
     {
+      "name": "vsIronbar Studio",
+      "desc": "Graphical config editor for Ironbar",
+      "icon": "󰣇",
+      "exe": "vsironbar-studio",
+      "aur": "vsironbar-studio",
+      "github": "https://github.com/victorsosaMx/vsIronbar-Studio"
+    },
+    {
     "name": "vsFetch",
     "desc": "Graphical system info viewer — like \"About This Computer\" for your Linux desktop",
     "icon": "󰟀",
