@@ -41,6 +41,14 @@
       "github": "https://github.com/victorsosaMx/vsFetch-Settings"
     },
     {
+      "name": "vsWallpaper-Effect",
+      "desc": "Animated wallpaper daemon with real-time generative effects — rain, matrix, aurora, snow, warp",
+      "icon": "󰸉",
+      "exe": "vswallpaper-effect",
+      "aur": "vswallpaper-effect-git",
+      "github": "https://github.com/victorsosaMx/vsWalpaper-Effect"
+    },
+    {
       "name": "vsHypr Theme Manager",
       "desc": "Sistema de theming para Arch Linux + Hyprland",
       "icon": "󰔯",
